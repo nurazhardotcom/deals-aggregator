@@ -1,0 +1,323 @@
+{
+  "data": {
+    "Catalog": {
+      "searchStore": {
+        "elements": [
+          {
+            "title": "《Idle Champions of the Forgotten Realms》",
+            "description": "《Idle Champions》是一款官方《龙与地下城》策略管理游戏，聚集了来自小说、战役和剧集中的各路标志性角色，展开一场史诗级的冒险。",
+            "offerType": "BASE_GAME",
+            "productSlug": "idle-champions-of-the-forgotten-realms",
+            "offerMappings": [
+              {
+                "pageSlug": "idle-champions-of-the-forgotten-realms",
+                "pageType": "productHome"
+              }
+            ],
+            "catalogNs": {
+              "mappings": [
+                {
+                  "pageSlug": "idle-champions-of-the-forgotten-realms",
+                  "pageType": "productHome"
+                }
+              ]
+            },
+            "price": {
+              "totalPrice": {
+                "discountPrice": 0,
+                "originalPrice": 0,
+                "voucherDiscount": 0,
+                "discount": 0,
+                "currencyCode": "CNY",
+                "currencyInfo": {
+                  "decimals": 2
+                },
+                "fmtPrice": {
+                  "originalPrice": "0",
+                  "discountPrice": "0",
+                  "intermediatePrice": "0"
+                },
+                "dualPrice": null
+              },
+              "lineOffers": [
+                {
+                  "appliedRules": []
+                }
+              ]
+            },
+            "promotions": {
+              "promotionalOffers": [
+                {
+                  "promotionalOffers": [
+                    {
+                      "startDate": "2026-11-05T16:00:00.000Z",
+                      "endDate": "2026-11-12T16:00:00.000Z",
+                      "discountSetting": {
+                        "discountType": "PERCENTAGE",
+                        "discountPercentage": 0
+                      }
+                    }
+                  ]
+                }
+              ],
+              "upcomingPromotionalOffers": []
+            }
+          },
+          {
+            "title": "Them's Fightin' Herds",
+            "description": "Them's Fightin' Herds",
+            "offerType": "BASE_GAME",
+            "productSlug": "thems-fightin-herds/home",
+            "offerMappings": [
+              {
+                "pageSlug": "thems-fightin-herds",
+                "pageType": "productHome"
+              }
+            ],
+            "catalogNs": {
+              "mappings": [
+                {
+                  "pageSlug": "thems-fightin-herds",
+                  "pageType": "productHome"
+                }
+              ]
+            },
+            "price": {
+              "totalPrice": {
+                "discountPrice": 6000,
+                "originalPrice": 6000,
+                "voucherDiscount": 0,
+                "discount": 0,
+                "currencyCode": "CNY",
+                "currencyInfo": {
+                  "decimals": 2
+                },
+                "fmtPrice": {
+                  "originalPrice": "¥60.00",
+                  "discountPrice": "¥60.00",
+                  "intermediatePrice": "¥60.00"
+                },
+                "dualPrice": null
+              },
+              "lineOffers": [
+                {
+                  "appliedRules": []
+                }
+              ]
+            },
+            "promotions": null
+          },
+          {
+            "title": "《幽灵行者 2》",
+            "description": "《幽灵行者 2》是第一人称视角硬核砍杀游戏的续作，故事背景设定在后世界末日的赛博朋克世界。游戏延续了《幽灵行者》粉丝喜爱的所有内容，包括精彩绝伦的 BOSS 战、全新的可互动式剧情主线、刺激的摩托车关卡、重新优化的技能以及更多生化忍者的打斗场面。  ",
+            "offerType": "BASE_GAME",
+            "productSlug": "ghostrunner-2",
+            "offerMappings": [
+              {
+                "pageSlug": "ghostrunner-2",
+                "pageType": "productHome"
+              }
+            ],
+            "catalogNs": {
+              "mappings": [
+                {
+                  "pageSlug": "ghostrunner-2",
+                  "pageType": "productHome"
+                }
+              ]
+            },
+            "price": {
+              "totalPrice": {
+                "discountPrice": 16900,
+                "originalPrice": 16900,
+                "voucherDiscount": 0,
+                "discount": 0,
+                "currencyCode": "CNY",
+                "currencyInfo": {
+                  "decimals": 2
+                },
+                "fmtPrice": {
+                  "originalPrice": "¥169.00",
+                  "discountPrice": "¥169.00",
+                  "intermediatePrice": "¥169.00"
+                },
+                "dualPrice": null
+              },
+              "lineOffers": [
+                {
+                  "appliedRules": []
+                }
+              ]
+            },
+            "promotions": {
+              "promotionalOffers": [],
+              "upcomingPromotionalOffers": [
+                {
+                  "promotionalOffers": [
+                    {
+                      "startDate": "2026-12-10T17:00:00.000Z",
+                      "endDate": "2027-01-07T23:59:00.000Z",
+                      "discountSetting": {
+                        "discountType": "PERCENTAGE",
+                        "discountPercentage": 20
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "title": "《LISA: Definitive Edition》",
+            "description": "入手《LISA: Definitive Edition》，探索 Olathe，揭开背后隐藏的扭曲秘密。Definitive Edition 包括叙事驱动角色扮演原作《LISA: The Painful》及续作《LISA: The Joyful》。",
+            "offerType": "BUNDLE",
+            "productSlug": "lisa-the-definitive-edition",
+            "offerMappings": [
+              {
+                "pageSlug": "lisa-the-definitive-edition",
+                "pageType": "productHome"
+              }
+            ],
+            "catalogNs": {
+              "mappings": [
+                {
+                  "pageSlug": "lisa-the-definitive-edition",
+                  "pageType": "productHome"
+                }
+              ]
+            },
+            "price": {
+              "totalPrice": {
+                "discountPrice": 6480,
+                "originalPrice": 10800,
+                "voucherDiscount": 0,
+                "discount": 4320,
+                "currencyCode": "CNY",
+                "currencyInfo": {
+                  "decimals": 2
+                },
+                "fmtPrice": {
+                  "originalPrice": "¥108.00",
+                  "discountPrice": "¥64.80",
+                  "intermediatePrice": "¥64.80"
+                },
+                "dualPrice": null
+              },
+              "lineOffers": [
+                {
+                  "appliedRules": [
+                    {
+                      "id": "b777a3d13b4b47f49d477d4961b48adc",
+                      "endDate": "2026-11-10T06:59:00.000Z",
+                      "discountSetting": {
+                        "discountType": "PERCENTAGE"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            "promotions": {
+              "promotionalOffers": [
+                {
+                  "promotionalOffers": [
+                    {
+                      "startDate": "2026-11-01T06:00:00.000Z",
+                      "endDate": "2026-11-10T06:59:00.000Z",
+                      "discountSetting": {
+                        "discountType": "PERCENTAGE",
+                        "discountPercentage": 60
+                      }
+                    }
+                  ]
+                }
+              ],
+              "upcomingPromotionalOffers": [
+                {
+                  "promotionalOffers": [
+                    {
+                      "startDate": "2026-12-10T16:00:00.000Z",
+                      "endDate": "2027-01-07T16:00:00.000Z",
+                      "discountSetting": {
+                        "discountType": "PERCENTAGE",
+                        "discountPercentage": 55
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "title": "浮游世界",
+            "description": "漂浮垃圾城生存游戏！从海洋表面尽可能搜集珍贵的垃圾，发展你的城市，同时努力在这个色彩斑斓的后末日世界中生存下去。",
+            "offerType": "BASE_GAME",
+            "productSlug": null,
+            "offerMappings": [
+              {
+                "pageSlug": "flotsam-266287",
+                "pageType": "productHome"
+              }
+            ],
+            "catalogNs": {
+              "mappings": [
+                {
+                  "pageSlug": "flotsam-266287",
+                  "pageType": "productHome"
+                }
+              ]
+            },
+            "price": {
+              "totalPrice": {
+                "discountPrice": 0,
+                "originalPrice": 7500,
+                "voucherDiscount": 0,
+                "discount": 7500,
+                "currencyCode": "CNY",
+                "currencyInfo": {
+                  "decimals": 2
+                },
+                "fmtPrice": {
+                  "originalPrice": "¥75.00",
+                  "discountPrice": "0",
+                  "intermediatePrice": "0"
+                },
+                "dualPrice": null
+              },
+              "lineOffers": [
+                {
+                  "appliedRules": [
+                    {
+                      "id": "a48fcd4f4fa84f9eb709c5df30d98ce8",
+                      "endDate": "2026-11-12T16:00:00.000Z",
+                      "discountSetting": {
+                        "discountType": "PERCENTAGE"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            "promotions": {
+              "promotionalOffers": [
+                {
+                  "promotionalOffers": [
+                    {
+                      "startDate": "2026-11-05T16:00:00.000Z",
+                      "endDate": "2026-11-12T16:00:00.000Z",
+                      "discountSetting": {
+                        "discountType": "PERCENTAGE",
+                        "discountPercentage": 0
+                      }
+                    }
+                  ]
+                }
+              ],
+              "upcomingPromotionalOffers": []
+            }
+          }
+        ]
+      }
+    }
+  }
+}

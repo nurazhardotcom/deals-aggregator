@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<title>推广</title>
+<entry>
+	<title>Anthropic 原生接口直通，新人入群送 10 美元</title>
+	<link rel="alternate" type="text/html" href="https://www.v2ex.com/t/1255325#reply0" />
+	<id>tag:www.v2ex.com,2026-11-08:/t/1255325</id>
+	<published>2026-11-08T05:08:49Z</published>
+	<updated>2026-11-07T13:08:49Z</updated>
+	<author>
+		<name>aicodinginc</name>
+		<uri>https://www.v2ex.com/member/aicodinginc</uri>
+	</author>
+	<content type="html" xml:base="https://www.v2ex.com/" xml:lang="en"><![CDATA[
+	curl 一下 /v1/messages ，返回的 JSON 结构、流式事件、报错格式，都能和官方文档对上。<br /><br />这是我们做 aicoding.inc 时定下的底线：接口层不魔改，不先转成别的格式再转回来。这样客户端什么都不用动。Claude Code 里把 ANTHROPIC_BASE_URL 指过来，Cursor 、Cline 填上地址和 Key ，原来怎么用，现在还怎么用，官方 SDK 也不用换。<br /><br />网络走国内直连，不用挂代理。付款走国内渠道，余额按 1.9 折、2.9 折、4.9 折三档消耗。<br /><br />想自己验证的话，入群领 10 美元额度，拿手头的脚本跑一遍对比就清楚了。<br /><br />https://aicoding.inc<br /><br /><a target="_blank" href="/i/tsU3Cq1v.png" rel="nofollow noopener" target="_blank" title="在新窗口打开图片 tsU3Cq1v.png"><img src="//i.v2ex.co/tsU3Cq1v.png" class="embedded_image"></a>
+	]]></content>
+</entry>
+</feed>

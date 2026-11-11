@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Fixed parser fixture. Source: https://www.appinn.com/feed/
+  Captured: not recorded (first included in this repository on 2026-11-08).
+  The original feed carried the full article body in content:encoded; that body
+  is intentionally not reproduced here. Only parser-relevant fields remain.
+  See README.md in this directory.
+-->
+<rss version="2.0">
+  <channel>
+    <title>小众软件</title>
+    <item>
+      <title>TotK Recomp &#8211; 在 Windows 上原生运行《塞尔达传说：王国之泪》，不需要模拟器，支持 4K 纹理包</title>
+      <link>https://www.appinn.com/totk-recomp/</link>
+      <pubDate>Sat, 07 Nov 2026 12:19:49 +0000</pubDate>
+      <description><![CDATA[TotK Recomp v0.3.12 发布，支持高清纹理包，AMD 显卡提升帧率，搬运已同步更新。]]></description>
+    </item>
+  </channel>
+</rss>
